@@ -40,7 +40,7 @@ Radiologist evaluation are also performed on the chest X-ray diagnoses generated
 
 <!-- Insert a pipeline of your algorithm here if got one -->
 <div align="center">
-    <a href="https://847656a535c7a29317.gradio.live/"><img width="1000px" height="auto" src="https://github.com/MedHK23/MedViLaM/blob/main/resources/diagram.png"></a>
+    <img width="1000px" height="auto" src="./demo/multi_modality_model.png">
 </div>
 
 
