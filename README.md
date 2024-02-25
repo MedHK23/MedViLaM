@@ -72,6 +72,24 @@ Others:
 - [Candid PTX](https://auckland.figshare.com/articles/dataset/CANDID-PTX/14173982)
 
 Video:
+- [CholecSeg8k](https://www.kaggle.com/datasets/newslab/cholecseg8k)
+- [CholecTriplet](https://cholectriplet2021.grand-challenge.org/)
+- [Cholecscopic](http://www.depeca.uah.es/colonoscopy_dataset/)
+- [CVC-12k](https://polyp.grand-challenge.org/Databases/)
+- [Hyper-Kvasir](https://datasets.simula.no/hyper-kvasir/)
+- [KUMC](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FCBUOR)
+- [Kvasir-Capsule](https://datasets.simula.no/kvasir-capsule/)
+- [LPPolypVideo](https://github.com/dashishi/LDPolypVideo-Benchmark)
+- [Nerthus](https://datasets.simula.no/nerthus/)
+- [PolypDiag](https://github.com/tianyu0207/weakly-polyp)
+- [SUN-SEG](https://github.com/GewelsJI/VPS/blob/main/docs/DATA_PREPARATION.md)
+
+Audio:
+- [Coswara1](https://github.com/iiscleap/Coswara-Data)
+
+Volume:
+- [ImageCAS](https://github.com/XiaoweiXu/ImageCAS-A-Large-Scale-Dataset-and-Benchmark-for-Coronary-Artery-Segmentation-based-on-CT?tab=readme-ov-file)
+- [ASOCA](https://asoca.grand-challenge.org/)
 
 ## Get Started
 
