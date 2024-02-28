@@ -8,7 +8,7 @@ Click the image to have a try with MedViLaM around the chest DR images
 
 <!-- Insert a pipeline of your algorithm here if got one -->
 <div align="center">
-    <a href="https://479d81e5a2e14b9538.gradio.live"><img width="600px" height="auto" src="https://github.com/MedHK23/MedViLaM/blob/main/resources/demo.gif"></a>
+    <a href="https://03b4c252cce4384a08.gradio.live"><img width="600px" height="auto" src="https://github.com/MedHK23/MedViLaM/blob/main/demo/demo.gif"></a>
 </div>
 
 
