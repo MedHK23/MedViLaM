@@ -142,13 +142,11 @@ A lot of code is modified from [OFA](https://github.com/OFA-Sys/OFA).
 
 If you find this repository useful, please consider citing this paper:
 ```
-@misc{xu2024learning,
-      title=MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation}, 
-      author={Lijian Xu and Hao Sun and Ziyu Ni and Xiaoyu Yang and Hongsheng Li and Shaoting Zhang},
-      year={2024},
-      eprint={2311.01092},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{xu2024medvilam,
+  title={MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation},
+  author={Xu, Lijian and Sun, Hao and Ni, Ziyu and Li, Hongsheng and Zhang, Shaoting},
+  journal={arXiv preprint arXiv:2409.19684},
+  year={2024}
 }
 ```
 
